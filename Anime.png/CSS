@@ -1,0 +1,29 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<nav id="navigation">
+    <a href="Index.html">About me</a>
+    <a href="Resume.html">Resume</a>
+    <a href="MyWork.html">My work</a>
+    <a href="HTML">HTML</a>
+    <a href="CSS">CSS</a>
+    <a href="Python">Python</a>
+</nav>
+  <table>
+  <tr>
+  <p>How to make a Html skeleton</p>
+     <th><!DOCTYPE html></th>
+      <th><html></th>
+        <th>Head</th>
+         <th>title</th>
+          <th>body</th>
+  </tr>
+  </table>
+</body>
+
+</html>

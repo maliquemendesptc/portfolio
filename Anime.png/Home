@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <title>Title</title>
+</head>
+<body>
+<nav id="navigation" class="Center">
+    <a href="Index.html">About me</a>
+    <a href="Resume.html" class>Resume</a>
+    <a href="MyWork.html">My work</a>
+    <a href="Html.html">HTML</a>
+    <a href="CSS">CSS</a>
+    <a href="Python">Python</a>
+</nav>
+
+</body>
+</html>
